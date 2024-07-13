@@ -1,1 +1,1 @@
-web: shaunasartproject.wsgi
+web: gunicorn shaunasartproject.wsgi
